@@ -1,2 +1,2 @@
-# d3p5-scaffold
-scaffold for d3.js and p5.js development 
+# vis-tools
+boilerplates for data visualisation with p5.js and d3.js 
